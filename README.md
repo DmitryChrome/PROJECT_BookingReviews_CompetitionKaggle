@@ -1,4 +1,4 @@
-# <center> **EDA + Feature Engineering. Построение ML-модели. Соревнование на Kaggle** </center>
+# <center> **EDA + Feature Engineering. Построение ML-модели. Соревнование на Kaggle.** </center>
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
 2. [Описание данных](#Описание-данных)
